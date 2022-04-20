@@ -1,0 +1,82 @@
+h1{
+    text-align: center;
+}
+body{
+    background-color: #f2f4f8;
+    width: 41%;
+    margin: 0 auto;
+}
+.bar{
+    height:150px;
+    width: 554px;
+    background-color:black;
+    margin-top: 50px;
+    border-radius: 20px;
+    padding: 0 10px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+.top{
+    margin-top: 20px;
+}
+.calc-btn{
+    background-color: #710133;
+    height: 71px;
+    width: 178px;
+    font-size: 56px;
+    text-align: center;
+    border-radius: 10px;
+    color: white;
+    margin: 9px;
+}
+.calc-btn1{
+    background-color: #cfcfcf;
+    height: 71px;
+    width: 121px;
+    font-size: 56px;
+    text-align: center;
+    border-radius: 10px;
+    color: black;
+    flex-wrap: wrap;
+    margin: 8px;
+}
+
+.flex{
+    display: flex;
+}
+.result{
+    height: 391px;
+    width: 123px;
+    background-color: #018080;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 40px;
+    position: absolute;
+    top: 288px;
+    left: 425px;
+}
+.position{
+    position: relative;
+}
+.calc-btn2{
+    background-color: #cfcfcf;
+    height: 71px;
+    width: 121px;
+    font-size: 56px;
+    text-align: center;
+    border-radius: 10px;
+    color: black;
+    flex-wrap: wrap;
+    margin: 8px;
+}
+.clear{
+    background-color: #710133;
+}
+h2{
+    color: white;
+    text-align: right;
+    font-size: 35px;
+}
