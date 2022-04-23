@@ -91,3 +91,22 @@ input[type='text'] {
 .terms {
   display: inline-block;
 }
+.width{
+  width: 29%;
+  margin: 0 auto;
+  display: none;
+}
+.popup{
+  height: 300px;
+  width: 400px;
+  background-color: white;
+  padding: 0 10px;
+}
+.btn{
+  border: none;
+  background-color: white;
+}
+.close{
+  display: flex;
+  justify-content: flex-end;
+}
