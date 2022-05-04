@@ -1,0 +1,33 @@
+section{
+    display: flex;
+    justify-content: center;
+}
+.box{
+    background-color: #f9c270;
+    height: 650px;
+    width: 500px;
+}
+.input-box{
+background-color: #90aee7;
+height: 300px;
+width: 450px;
+margin: 0 20px;
+margin-top: 50px;
+border-radius: 10px;
+}
+h2{
+    font-size: 30px;
+    text-align: center;
+}
+.add-input{
+    padding: 10px;
+    width: 425px;
+    border-radius: 5px;
+}
+.add-input:hover{
+    border: 1px solid blue;
+}
+.flex-box {
+    display: flex;
+    justify-content: space-around;
+}
